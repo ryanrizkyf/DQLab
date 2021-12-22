@@ -1,0 +1,25 @@
+Setiap kita mengkaji suatu permasalahan, biasanya kita menggunakan beberapa individu dari grup-grup tertentu.
+
+Misalnya, ketika kita ingin mengetahui prestasi siswa di suatu sekolah untuk mata pelajaran matematika, 
+kita bisa saja menghitung semua nilai siswa lalu ambil nilai rata-ratanya. 
+
+Atau dalam konteks pemasaran, kita ingin tahu untuk setiap segmen pasar, 
+berapa besar pendapatan yang bisa kita peroleh dari tiap segmen. 
+
+Namun ada kalanya kita hanya butuh sebagian kecil dari grup, 
+dikarenakan beberapa keterbatasan seperti biaya pengambilan data yang terlalu mahal, 
+atau bisa karena membutuhkan waktu analisis yang singkat karena harus membuat keputusan saat itu juga. 
+
+Jika kasus seperti ini biasanya kita hanya mengambil sebagian kecil dari grup. 
+
+Misalnya kita hanya mengambil 10 siswa dari tiap kelas untuk menghitung prestasi siswa 
+atau kita hanya mengambil 20% dari tiap segmen pasar kita. 
+
+Hal ini yang memunculkan dua istilah untuk kedua kasus ini: parameter dan statistik
+
+
+Parameter adalah penjelasan atas populasi sedangkan statistik hanya menjelaskan sampel dari populasi. 
+
+Untuk kasus terkait segmentasi pasar, 
+mengukur revenue dari setiap orang di dalam segmen adalah parameter, 
+sedangkan jika kita hanya mengambil 20% dari tiap segmen hal ini dikatakan sebagai statistik.

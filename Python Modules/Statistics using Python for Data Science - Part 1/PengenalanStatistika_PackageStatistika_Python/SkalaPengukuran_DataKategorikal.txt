@@ -1,0 +1,13 @@
+Ada beberapa skala pengukuran, kita dapat mengelompokkan objek yang ingin kita ukur. 
+
+Beberapa tingkatan tersebut adalah:
+Lihat gambar pada file SkalaPengukuran_DataKategorikal.png
+
+- Skala Nominal
+Skala nominal adalah skala yang digunakan untuk mengkategorikan suatu objek pengamatan dengan objek pengamatan lainnya. 
+Sebagai contoh yang termasuk skala nominal seperti gender, kategori barang, ras, status pernikahan dan lain sebagainya.
+
+- Skala Ordinal
+Skala ordinal adalah skala yang digunakan untuk mengurutkan suatu objek pengamatan 
+dimana suatu titik pengamatan memiliki nilai yang lebih rendah atau tinggi dibanding nilai lainnya. 
+Sebagai contoh yang termasuk skala nominal adalah kelas, jabatan, tingkat pendidikan, dan sebagainya.

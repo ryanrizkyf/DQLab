@@ -1,0 +1,23 @@
+Perhatikan nilai korelasi Pearson dari raw_data
+
+Perhatikan bahwa beberapa pasang variabel memiliki nilai korelasi yang positif maupun negatif. 
+Selain itu terdapat nilai yang sangat kecil hingga mendekati nol, namun ada juga yang cukup besar diatas 0.5, 
+misalnya korelasi antara 'Jumlah' dan 'Pendapatan'. 
+
+Besar kecilnya suatu nilai korelasi dari sepasang variabel menandakan seberapa kuat hubungan linier 
+antara kedua variabel tersebut. 
+
+Sebagai acuan untuk mengukur seberapa kuat korelasi sepasang variabel, 
+kita dapat menggunakan ukuran berikut:
+Lihat gambar pada file Interpretasi_NilaiKorelasi_Kaitannya_Kausalitas.png
+
+Berdasarkan kriteria di atas, 
+kita dapat menilai bahwa hubungan antara variabel 'Total' dan 'Jumlah' hubungannya sedang 
+dan positif (r = 0.636097) sedangkan hubungan antara 'Pendapatan' 
+dan 'Tingkat Kepuasan' hubungannya lemah dan negatif (r = -0.088339).
+
+Namun, perlu diperhatikan bahwa walaupun kita dapat menilai kuat hubungan antara kedua variabel, 
+namun kita tidak bisa menentukan arah dari hubugan tersebut. 
+
+Sebagai contoh, walaupun antara variabel 'Total' dan 'Jumlah' memiliki hubungan yang sedang, 
+tidak berarti kita bisa mengetahui apakah kenaikan nilai 'Total' berefek positif terhadap 'Jumlah' atau sebaliknya.

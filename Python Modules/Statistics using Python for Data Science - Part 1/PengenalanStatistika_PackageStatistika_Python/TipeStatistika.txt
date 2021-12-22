@@ -1,0 +1,12 @@
+Lihat gambar pada file TipeStatistika.png
+
+
+Statistika deskriptif, digunakan untuk melakukan eksplorasi pada data, 
+biasanya menggunakan teknik visualisasi data sebagai alat bantu untuk memahami 
+bagaimana bentuk distribusi dan hubungan antara satu titik data dengan titik data lainnya.
+
+
+Statistika inferensial, digunakan untuk melakukan pengambilan keputusan 
+atas suatu simpulan terkait dengan data yang sedang dianalisa. 
+Statistika inferensi memungkinkan kita mengambil kesimpulan dari suatu populasi 
+dengan menggunakan sampel yang diambil dari populasi tersebut.

@@ -1,0 +1,23 @@
+Terdapat dua kategori data yang terdapat pada populasi atau sampel, 
+yaitu data kualitatif dan data kuantitatif.
+
+Data kualitatif, 
+adalah data yang diperoleh dari mengkategorikan atau menjelaskan suatu atribut dari populasi atau sampel. 
+Biasanya disebut juga sebagai data kategorik. 
+Beberapa contoh data kualitatif misalnya warna rambut, golongan darah, nama jalan, nama produk yang 
+digunakan dan lain sebagainya.
+Biasanya data kualitatif selalu disebutkan dalam bentuk kata ataupun simbol.
+
+Data kuantitatif, 
+adalah data yang diperoleh dari ukuran atau hitungan di suatu populasi atau sampel. 
+Data kuantitatif selalu berbentuk angka. 
+Data seperti gaji, berat badan, populasi di suatu negara, dan jumlah pelanggan yang 
+dimiliki suatu e-commerce termasuk data kuantitatif. 
+Data kuantitatif sendiri dapat dibagi menjadi dua yaitu data diskrit dan data kontinu.
+
+Data yang diperoleh dari hasil perhitungan adalah data diskrit: 
+jumlah pelanggan, jumlah produk, dan jumlah telefon yang diterima oleh customer service per harinya 
+adalah beberapa contoh data diskrit.
+
+Data yang diperoleh dari hasil perhitungan namun dapat memuat rasio, desimal, atau bilangan irasional 
+adalah data kontinu: berat badan, tinggi badan, waktu, dan gaji adalah beberapa contoh data kontinu.

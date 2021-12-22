@@ -1,0 +1,10 @@
+Korelasi Kendall atau sering juga disebut juga sebagai Kendall's tank correlation 
+atau korelasi Tau (τ) adalah pengukuran korelasi non-parametrik.
+
+Secara matematis, korelasi Kendall dapat dihitung menggunakan rumus berikut:
+Lihat gambar pada file Korelasi_Kendall.png
+
+Dimana :
+- nc adalah jumlah pasangan konkordan
+- nd adalah jumlah pasangan diskordan
+- n adalah jumlah data

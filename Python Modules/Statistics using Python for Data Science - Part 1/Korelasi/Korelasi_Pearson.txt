@@ -1,0 +1,31 @@
+Korelasi Pearson atau sering juga disebut sebagai Pearson's product moment correlation 
+adalah pengukuran korelasi parametrik yang menghasilkan koefisien korelasi. 
+
+Koefisien korelasi ini dapat digunakan untuk 
+mengukur kekuatan hubungan atau asosiasi linier antara dua variabel. 
+
+Artinya jika hubungan kedua variabel tidak linier maka koefisien korelasi Pearson 
+tidak dapat digunakan untuk mengukur kekuatan hubungan antara kedua variabel.
+
+Selain itu nilai dari koefisien pearson dapat digunakan untuk mengukur arah dari hubungan tersebut: 
+positif atau negatif. 
+
+Hubungan antar variabel dikatakan positif jika nilai salah satu variabel naik 
+maka nilai variabel lainnya juga naik. 
+
+Sebaliknya, hubungan antar variabel dikatakan negatif jika nilai salah satu variabel naik 
+maka nilai variabelnya turun. 
+
+Gambar berikut dapat menjelaskan maksud dari kekuatan dan arah dari korelasi antar kedua variabel.
+Lihat gambar pada file Korelasi_Pearson.png
+Sumber Gambar: https://www.mathsisfun.com
+
+Beberapa asumsi yang harus dipenuhi untuk menggunakan korelasi Pearson diantaranya adalah:
+1. Nilai berskala interval/rasio
+2. Terdapat hubungan linier antara kedua variabel, 
+yaitu kita dapat menggambarkan hubungan kedua variabel sebagai garis lurus.
+3. Kedua variabel berdistribusi normal
+4. Homoskedastis, atau data berdistribusi seragam dalam garis regresi
+
+Secara matematis, korelasi pearson dapat dirumuskan sebagai berikut:
+Lihat gambar pada file Rumus_Korelasi_Pearson.png

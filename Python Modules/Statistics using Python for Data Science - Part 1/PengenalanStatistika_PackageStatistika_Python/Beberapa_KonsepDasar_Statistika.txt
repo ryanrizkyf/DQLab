@@ -1,0 +1,22 @@
+Populasi, sampel dan observasi/pengamatan.
+
+Observasi: Adalah suatu unit yang diukur dengan data. 
+Beberapa contoh diantaranya adalah:
+- Siswa
+- Warga negara
+- Hewan
+- Kendaraan
+
+Populasi: Adalah koleksi dari keseluruhan observasi. 
+Beberapa contoh diantaranya adalah:
+- Semua siswa yang ada di sekolah
+- Semua warga negara Indonesia,
+- Semua hewan yang ada di hutan lindung,
+- Semua kendaraan di Jakarta
+
+Sampel: Adalah sub koleksi dari populasi. 
+Beberapa contoh diantaranya adalah:
+- 5 siswa dari masing-masing kelas di suatu sekolah
+- 100 warga negara Indonesia yang diambil dari beberapa wilayah
+- Beberapa species hewan tertentu di suatu hutan lindung
+- 3 jenis kendaraan di Jakarta

@@ -1,0 +1,12 @@
+Untuk melakukan perhitungan statistika, 
+kita dapat menggunakan beberapa package atau library berikut yang tersedia di Python, diantaranya adalah:
+
+- numpy: digunakan untuk melakukan analisa data numerik dan perhitungan berbasis vektor atau matriks.
+- pandas: digunakan untuk melakukan pengolahan data tabular.
+- matplotlib: digunakan untuk melakukan ploting atau penggambaran grafik, 
+dapat digunakan sebagai alat bantu dalam analisa data.
+- statsmodels: digunakan untuk melakukan uji hipotesa, eksplorasi data maupun pemodelan statistika.
+- scipy: digunakan untuk melakukan uji statistika, juga dapat digunakan untuk melakukan pemodelan statistika.
+
+Sebenarnya masih banyak lagi library python untuk pengolahan data statistika, 
+namun untuk materi ini cukup 4 atau 5 library di atas saja yang akan kita gunakan.

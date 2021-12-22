@@ -1,0 +1,18 @@
+Korelasi Spearman atau sering juga disebut sebagai Spearman's rank correlation 
+adalah pengukuran korelasi non-parametrik. 
+
+Artinya kita mencoba mengukur hubungan antara kedua variabel tanpa menghiraukan asumsi seperti distribusi 
+dari kedua variabel dan asumsi lainnya. 
+
+Secara kriteria memiliki kemiripan dengan korelasi Pearson walau korelasi Spearman bisa digunakan 
+untuk data bertipe ordinal. 
+
+Perbedaannya hanya terletak pada pengubahan data dalam bentuk ranking sebelum menghitung nilai korelasinya.
+
+Secara matematis, korelasi Spearman dapat dihitung menggunakan rumus berikut:
+Lihat gambar pada file Korelasi_Spearman.png
+
+Dimana:
+- ρ adalah nilai korelasi Spearman
+- di adalah nilai beda antara kedua variabel
+- n adalah jumlah data

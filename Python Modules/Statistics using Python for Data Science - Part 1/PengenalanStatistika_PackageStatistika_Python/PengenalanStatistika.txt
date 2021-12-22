@@ -1,0 +1,14 @@
+Secara definisi, statistika adalah bidang studi yang mempelajari bagaimana mengumpulkan dan menganalisa data. 
+Jika mengambil definisi yang lebih lengkap, 
+maka statistika dapat didefinisikan sebagai ilmu yang mempelajari cara pengumpulan data, 
+menganalisis data untuk mendapatkan kesimpulan informasi sampai 
+dapat dijadikan dasar pembuatan keputusan atau kebijakan.
+
+Di dalam mempelajari statistika, akan mempelajari bagaimana caranya mengorganisir dan membuat kesimpulan dari data. 
+Kegiatan mengorganisir dan membuat kesimpulan dari data disebut sebagai statistika deskriptif. 
+Ada banyak cara bagaimana kita menyimpulkan suatu data, misalnya dengan membuat grafik atau dengan angka, 
+misalnya mengambil suatu rata-rata dari data.
+
+Selanjutnya ketika harus mengambil keputusan dari data yang sudah diolah, 
+kemudian akan menggunakan statistika inferensial sehingga dapat mengambil keputusan yang benar 
+dari data yang juga sudah diolah dengan benar.

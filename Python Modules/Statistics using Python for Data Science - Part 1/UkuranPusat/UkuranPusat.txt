@@ -1,0 +1,8 @@
+Ukuran pusat (measures of central tendency) adalah statistika deskriptif,
+yang dapat digunakan untuk membantu kita mengidentifikasi 
+kasus-kasus tipikal di dalam sebuah sampel atau populasi.
+
+Terdapat beberapa jenis ukuran pusat yang dapat digunakan untuk menganalisa data, diantaranya:
+- Mean atau rerata
+- Median
+- Modus

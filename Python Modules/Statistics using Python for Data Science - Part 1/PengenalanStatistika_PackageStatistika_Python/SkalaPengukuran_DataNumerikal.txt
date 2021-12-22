@@ -1,0 +1,14 @@
+Ada beberapa skala pengukuran, kita dapat mengelompokkan objek yang ingin kita ukur. 
+
+Beberapa tingkatan tersebut adalah:
+Lihat gambar pada file SkalaPengukuran_DataNumerikal.png
+
+- Skala Interval
+Skala interval adalah skala yang digunakan untuk tidak hanya untuk mengklasifikasikan maupun 
+memberikan tingkatan pada suatu titik pengamatan, 
+namun kita dapat mengukur seberapa besar nilai antara suatu titik pengamatan dengan titik pengamatan lainnya. 
+Beberapa contoh yang termasuk skala interval diantaranya adalah suhu tubuh dan jarak.
+
+- Skala Rasio
+Skala rasio memiliki kemiripan dengan skala interval, perbedaannya terletak pada nilai 0 pada skala rasio. 
+Berbeda dengan skala interval yang tidak memiliki nilai 0 yang tidak pasti.

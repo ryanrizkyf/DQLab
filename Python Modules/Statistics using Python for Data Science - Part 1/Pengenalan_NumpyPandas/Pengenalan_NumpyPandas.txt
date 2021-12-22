@@ -1,0 +1,14 @@
+Kedua library ini, numpy dan pandas, adalah library yang umum digunakan untuk melakukan pengolahan data, 
+mulai dari membaca data dalam format tertentu (csv, xlsx, xls, tsv) atau dari sumber tertentu (RDBMS, No-SQL), 
+melakukan inspeksi (mengecek data yang hilang, inkonsistensi pada data) 
+dan pengolahan data (transformasi nilai, encoding, normalisasi) 
+sampai visualisasi data untuk membuat laporan atau mempersiapkan data untuk membuat model.
+
+Numpy adalah library yang biasanya digunakan untuk manipulasi array atau vektor. 
+Perhitungan yang melibatkan operasi pada objek berbentuk matriks, vektor atau bahkan multidimensi vektor 
+(misalnya data gambar dengan skema warna RGB) dapat kita lakukan dengan menggunakan numpy.
+
+Pandas adalah library yang biasanya digunakan untuk analisa data atau biasa disebut sebagai data wrangling. 
+Biasanya data yang diolah oleh pandas berbentuk tabular atau tabel layaknya spreadsheet di Excel. 
+Pandas menggunakan numpy sebagai back-end sehingga beberapa fungsi 
+atau method dari numpy dapat digunakan di objek pandas.

@@ -1,0 +1,14 @@
+Ukuran sebaran (measure of dispersion) adalah statistika deskriptif yang digunakan 
+untuk membantu kita memahami sebaran titik data di dalam sebuah sampel ataupun populasi.
+
+Terdapat beberapa ukuran sebaran yang biasanya digunakan tergantung pada jenis atau tipe datanya, yaitu:
+
+1. Tipe Data Nominal dan Ordinal
+- Proporsi Kategori (Categorical Proportion)
+- Persen Proporsi (Percent Proportion)
+- Rasio Variasi (Variation Ratio)
+
+2. Tipe Data Interval dan Rasio
+- Rentang (Range)
+- Variansi (Variance)
+- Deviasi Baku (Standard Deviation)

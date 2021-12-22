@@ -1,0 +1,11 @@
+Korelasi adalah salah satu metode statistika yang dapat digunakan untuk 
+mengukur seberapa besar hubungan antara satu variabel dengan variabel lainnya. 
+
+Sebagai contoh, misalnya mencari hubungan antara tinggi badan dengan berat badan, 
+mencari hubungan antara gender dengan penghasilan dan masih banyak aplikasi penggunaan korelasi.
+
+Terdapat beberapa metode yang dapat digunakan untuk menghitung korelasi 
+antara sepasang variabel tergantung tipe dari sepasang variabel tersebut, diantaranya adalah:
+- Korelasi Pearson
+- Korelasi Spearman
+- Korelasi Kendall
